@@ -17,3 +17,5 @@ The xx contains the opcode of the mouse, the useful codes that I've found are: <
 The yy contains the Column of the mouse <br>
 The zz contains the Row of the mouse <br>
 The string ends either M or m. Upper case M means regular mouse event/mouse down, whereas lower case m means mouse up event
+
+Inspiration and a template I built everything off found here: https://stackoverflow.com/questions/5966903/how-to-get-mousemove-and-mouseclick-in-bash
