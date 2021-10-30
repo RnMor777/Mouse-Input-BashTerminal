@@ -13,6 +13,8 @@ The xx contains the opcode of the mouse, the useful codes that I've found are: <
 &ensp;  0 - Mouse Left Click <br>
 &ensp;  2 - Mouse Right Click <br>
 &ensp;  35 - Mouse Move <br>
+&ensp;  64 - Mouse Wheel Down <br>
+&ensp;  65 - Mouse Wheel Up <br>
 
 The yy contains the Column of the mouse <br>
 The zz contains the Row of the mouse <br>
